@@ -1,17 +1,16 @@
-🚰 WASH Service Monitoring Dashboard
+# 🚰 WASH Service Monitoring Dashboard
+
 An interactive water, sanitation, and hygiene (WASH) service monitoring and vulnerability assessment dashboard built with Python and Streamlit.
 
-🚀 Live Demo
-
-👉 ## 🚀 Live Demo
+## 🚀 Live Demo
 
 👉 https://wash-service-monitoring-dashboard.streamlit.app/ 
 
-📸 Dashboard Preview
+## 📸 Dashboard Preview
 
 ![WASH Service Monitoring Dashboard](dashboard.PNG)
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project is a comprehensive water, sanitation, and hygiene (WASH) service monitoring dashboard designed to support data-driven decision-making in humanitarian response and public health operations.
 
@@ -19,7 +18,7 @@ The system allows users to assess safe water access, monitor sanitation services
 
 The project uses synthetic data for educational and portfolio purposes.
 
-🎯 Objectives
+## 🎯 Objectives
 
 Assess safe water access
 Monitor sanitation service conditions
@@ -33,16 +32,16 @@ Prioritize locations for WASH interventions
 Generate downloadable monitoring reports
 Demonstrate WASH data analysis and visualization
 
-📊 Key Features
+## 📊 Key Features
 
-🏠 Dashboard Overview
+Dashboard Overview
 View overall summary of WASH service conditions
 Monitor key performance indicators
 Track households assessed and population covered
 Visualize WASH vulnerability distribution
 Compare district-level safe water access
 
-🚰 Water Access Assessment
+## 🚰 Water Access Assessment
 
 Assess safe water access levels
 Monitor primary water sources
@@ -52,7 +51,7 @@ Record functional water points
 Track water quality status
 Identify water shortages
 
-🚽 Sanitation Monitoring
+## 🚽 Sanitation Monitoring
 
 Monitor sanitation coverage
 Track functional toilets
@@ -60,7 +59,7 @@ Monitor shared toilets
 Track open defecation
 Assess sanitation service conditions
 
-🧼 Hygiene Assessment
+## 🧼 Hygiene Assessment
 
 Monitor handwashing facilities
 Track soap availability
@@ -68,27 +67,27 @@ Assess hygiene awareness
 Monitor menstrual hygiene support
 Track hygiene material access
 
-⚠️ WASH Vulnerability Analysis
+## ⚠️ WASH Vulnerability Analysis
 
 Calculate WASH vulnerability scores
 Classify locations by vulnerability level
 Identify critical and high-risk locations
 Compare vulnerability across districts
 
-📈 Service Coverage
+## 📈 Service Coverage
 
 Evaluate overall WASH service coverage
 Compare coverage across locations
 Identify areas with lower service coverage
 
-📑 Reporting
+## 📑 Reporting
 
 Generate WASH assessment reports
 Generate critical location reports
 Generate district-level summaries
 Download reports as CSV files
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Python
 Streamlit
@@ -97,7 +96,7 @@ Plotly
 SQLite
 Git & GitHub
 
-🗄️ Database
+## 🗄️ Database
 
 The application uses SQLite for local data storage.
 
@@ -129,8 +128,9 @@ WASH vulnerability score
 Vulnerability level
 Service coverage score
 
-🔄 Data Workflow
+## 🔄 Data Workflow
 
+```text
 WASH Assessment
        ↓
 SQLite Database
