@@ -150,3 +150,21 @@ Service Coverage Analysis
 Interactive Dashboard
        ↓
 Reports & CSV Export
+
+```
+
+## ⚙️ Installation & Usage
+
+```bash
+git clone https://github.com/mdisrak21/wash-service-monitoring-dashboard.git
+cd wash-service-monitoring-dashboard
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+## 🔮 Future Improvements
+
+- Add facility-level mapping.
+- Add time-series monitoring.
+- Add service quality indicators.
+- Add downloadable WASH monitoring reports.
